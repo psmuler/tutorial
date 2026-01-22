@@ -1,0 +1,32 @@
+[
+    {
+        "discipline": "物理学",
+        "rca_citation": 1.27,
+        "rca_pub": 0.94,
+        "color": "#1f77b4"
+    },
+    {
+        "discipline": "生物学",
+        "rca_citation": 0.83,
+        "rca_pub": 1.12,
+        "color": "#2ca02c"
+    },
+    {
+        "discipline": "化学",
+        "rca_citation": 1.95,
+        "rca_pub": 0.76,
+        "color": "#ff7f0e"
+    },
+    {
+        "discipline": "数学",
+        "rca_citation": 1.12,
+        "rca_pub": 1.43,
+        "color": "#9467bd"
+    },
+    {
+        "discipline": "地球科学",
+        "rca_citation": 0.64,
+        "rca_pub": 0.38,
+        "color": "#8c564b"
+    }
+]
